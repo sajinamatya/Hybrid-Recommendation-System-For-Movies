@@ -11,11 +11,11 @@ Hybrid System Integration : Combine collaborative filtering and content-based fi
 
 
 # Content based filtering 
-    The TFIFDVectorizer is used for text vectorization, with cosine similarity to find the similar result as the user  enters their requirement
+The TFIFDVectorizer is used for text vectorization, with cosine similarity to find the similar result as the user  enters their requirement
 
 # Collaborative Filtering 
-    The SVD model from suprise module with proper hyperparameter tuning for adjusting the  weight to the model, cross validation to evaluate the model on 5 folds, is used to       
-    recommend the movies with similar ratings. 
+The SVD model from suprise module with proper hyperparameter tuning for adjusting the  weight to the model, cross validation to evaluate the model on 5 folds, is used to       
+recommend the movies with similar ratings. 
 
 ###  Hybrid system is implement with merge of both content based filtering and collaborative filtering with proper input validation. 
 
