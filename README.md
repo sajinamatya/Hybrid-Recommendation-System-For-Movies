@@ -16,7 +16,7 @@ The TFIFDVectorizer is used for text vectorization, with cosine similarity to fi
 The SVD model from suprise module with proper hyperparameter tuning for adjusting the  weight to the model, cross validation to evaluate the model on 5 folds, is used to       
 recommend the movies with similar ratings. 
 
-###  Hybrid system is implement with merge of both content based filtering and collaborative filtering with proper input validation. 
+####  Hybrid system is implement with merge of both content based filtering and collaborative filtering with proper input validation. 
 
-### Additional Feautures is added where the user can enter the country name and  the movie is recommended on  the basis of country origin 
+#### Additional Feautures is added where the user can enter the country name and  the movie is recommended on  the basis of country origin 
 
